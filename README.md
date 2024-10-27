@@ -1,8 +1,8 @@
-<h1 align="center">C# Eğitim Kampı Projeleri</h1>
+<h1 align="center">🎯C# Eğitim Kampı Projeleri🎯</h1>
 
 ###
 
-<h1 align="left">Proje 1: Merhaba Dünya!(Hello World!)</h1>
+<h1 align="left">Proje 1: Merhaba Dünya!(Hello World!)🌎</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h1 align="left">Proje 2: Değişkenler</h1>
+<h1 align="left">Proje 2: Değişkenler(Variables)🔡</h1>
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
 
-<h1 align="left">Proje 3: Diziler(Arrays)</h1>
+<h1 align="left">Proje 3: Diziler(Arrays)🧮</h1>
 
 ###
 
@@ -30,7 +30,7 @@
 
 ###
 
-<h1 align="left">Proje 4: Karar Yapıları(If-Else)</h1>
+<h1 align="left">Proje 4: Karar Yapıları(If-Else)🤔</h1>
 
 ###
 
@@ -38,7 +38,7 @@
 
 ###
 
-<h1 align="left">Proje 5: Döngüler(Loops)</h1>
+<h1 align="left">Proje 5: Döngüler(Loops)➰</h1>
 
 ###
 
@@ -46,7 +46,7 @@
 
 ###
 
-<h1 align="left">Proje 6: Metotlar(Methods)</h1>
+<h1 align="left">Proje 6: Metotlar(Methods)⚒️</h1>
 
 ###
 
@@ -54,7 +54,7 @@
 
 ###
 
-<h1 align="left">Proje 7: Foreach Döngüsü Kullanarak Örnek Alıştırma</h1>
+<h1 align="left">Proje 7: Foreach Döngüsü Kullanarak Örnek Alıştırma⌨</h1>
 
 ###
 
@@ -62,7 +62,7 @@
 
 ###
 
-<h1 align="left">Proje 8: Geriye Değer Döndüren Fonksiyonlar</h1>
+<h1 align="left">Proje 8: Geriye Değer Döndüren Fonksiyonlar ⚡</h1>
 
 ###
 
@@ -70,7 +70,7 @@
 
 ###
 
-<h1 align="left">Sonuç</h1>
+<h1 align="left">Sonuç📈</h1>
 
 ###
 
